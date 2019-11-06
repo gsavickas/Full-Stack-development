@@ -18,3 +18,7 @@ function fancyAlert(arg) {
 }
 
 ```
+
+```python
+ print(Hello World!)
+ ```

@@ -10,3 +10,11 @@ You can even [link to Google!](http://google.com)
 1. Hi
 1. My name is Grayton
   1. What is yours
+```javascript 
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+
+```

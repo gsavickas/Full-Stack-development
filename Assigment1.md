@@ -6,16 +6,9 @@
  
  Once you have complete this you will need to create a header tag.
   An example is
-  
+```html
 <h1>
 StarWars a New Hope  
 <h1>
- 
- and it should look like this
-
-  ```html
-<h1>
-StarWars a New Hope  
-<h1>
- 
  ```
+ ~~Dont do this~~ 
